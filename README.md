@@ -6,3 +6,4 @@ Lecture notebooks in Python:
 
 1. Golem of Prague (no notebook)
 1. [Garden of Forking Data](./notebooks/2_gardenforkingdata.ipynb)
+1. [Geocentric models](./notebooks/3_geocentric_models.ipynb)
