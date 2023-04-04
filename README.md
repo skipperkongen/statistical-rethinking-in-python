@@ -2,7 +2,7 @@
 
 See the [playlist on Youtube](https://youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus) for the full video lectures by Richard McElreath. Also check out the corresponding [Github repository](https://github.com/rmcelreath/stat_rethinking_2023) (2023 version, R).  
 
-Because work in Python, I'm creating my own lecture notebooks in Python as I progress through the course:
+Because I work in Python, I'm creating my own lecture notebooks in Python as I progress through the course:
 
 1. [Golem of Prague](./notebooks/1_golems_owls.ipynb)
 1. [Garden of Forking Data](./notebooks/2_gardenforkingdata.ipynb)
