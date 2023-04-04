@@ -4,9 +4,9 @@ See the [playlist on Youtube](https://youtube.com/playlist?list=PLDcUM9US4XdPz-K
 
 Because I work in Python, I am creating my own lecture notebooks in Python as I progress through the course:
 
-1. Golem of Prague, [notebook](./notebooks/1_golems_owls.ipynb) in Python for [video lecture](https://youtu.be/FdnMWdICdRs)
-1. Garden of Forking Data, [notebook](./notebooks/2_gardenforkingdata.ipynb) in Python for [video lecture](https://youtu.be/R1vcdhPBlXA)
-1. Geocentric models, [notebook](./notebooks/3_geocentric_models.ipynb) in Python for [video lecture](https://youtu.be/tNOu-SEacNU)
+1. Golem of Prague, [notebook in Python](./notebooks/1_golems_owls.ipynb) for [video lecture](https://youtu.be/FdnMWdICdRs)
+1. Garden of Forking Data, [notebook in Python](./notebooks/2_gardenforkingdata.ipynb) for [video lecture](https://youtu.be/R1vcdhPBlXA)
+1. Geocentric models, [notebook in Python](./notebooks/3_geocentric_models.ipynb) for [video lecture](https://youtu.be/tNOu-SEacNU)
 
 Also check out the side quests:
 - [Demand modeling](./notebooks/sidequests/demand.ipynb)
