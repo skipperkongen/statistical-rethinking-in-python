@@ -9,5 +9,5 @@ Because I work in Python, I am creating my own lecture notebooks in Python as I 
 1. Geocentric models, [notebook in Python](./notebooks/3_geocentric_models.ipynb) for [video lecture](https://youtu.be/tNOu-SEacNU)
 
 Also check out the side quests:
-- [Demand modeling](./notebooks/sidequests/demand.ipynb)
 - [Quadratic Approximation](./notebooks/sidequests/quadratic_approximation.ipynb)
+- [Demand modeling](./notebooks/sidequests/demand.ipynb)
